@@ -25,6 +25,18 @@ Sou apaixonado por criar coisas e entender como a tecnologia molda o nosso mundo
 *   Aprendendo sobre Orientação a Objetos em Java e mais.
 *   Codando em Java, Python, C, HTML/CSS e mais!
 
+
+---
+
+ Estatísticas no GitHub
+
+<div align="center">
+  <a href="https://github.com/arthuneas">
+    <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arthuneas&layout=compact&theme=radical&hide_border=true"/>
+  </a>
+</div>
+
+
 ---
 
 <div align="center">
@@ -37,14 +49,4 @@ Sou apaixonado por criar coisas e entender como a tecnologia molda o nosso mundo
   <img src="https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white" />
   <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
-</div>
-
----
-
- Estatísticas no GitHub
-
-<div align="center">
-  <a href="https://github.com/arthuneas">
-    <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arthuneas&layout=compact&theme=radical&hide_border=true"/>
-  </a>
 </div>
