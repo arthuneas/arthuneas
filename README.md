@@ -26,11 +26,9 @@ Sou apaixonado por criar coisas e entender como a tecnologia molda o nosso mundo
 *   Codando em Java, Python, C, HTML/CSS e mais!
 
 
----
-
-![Linguagens Mais Usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=arthuneas&layout=donut&theme=radical)
 
 ---
+
 
 <div align="center">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
@@ -45,8 +43,6 @@ Sou apaixonado por criar coisas e entender como a tecnologia molda o nosso mundo
 </div>
 
 <div align="center">
-
-  <br><br>
 
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" width="100%"/>
 
