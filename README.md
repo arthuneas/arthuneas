@@ -28,9 +28,7 @@ Sou apaixonado por criar coisas e entender como a tecnologia molda o nosso mundo
 
 ---
 
- Estatísticas no GitHub
-![Linguagens Mais Usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=arthuneas&layout=donut&theme=radical&hide_border=true)
-![Estatísticas Gerais](https://github-readme-stats.vercel.app/api?username=arthuneas&show_icons=true&theme=radical&hide_border=true)
+![Linguagens Mais Usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=arthuneas&layout=donut&theme=radical)
 
 ---
 
