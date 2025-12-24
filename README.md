@@ -32,7 +32,9 @@ Sou apaixonado por criar coisas e entender como a tecnologia molda o nosso mundo
 
 <div align="center">
   <a href="https://github.com/arthuneas">
-    <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arthuneas&layout=compact&theme=radical&hide_border=true"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arthuneas&layout=compact&theme=radical&hide_border=true&langs_count=8"/>
+    <br/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=arthuneas&show_icons=true&theme=radical&hide_border=true"/>
   </a>
 </div>
 
@@ -49,4 +51,16 @@ Sou apaixonado por criar coisas e entender como a tecnologia molda o nosso mundo
   <img src="https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white" />
   <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
+</div>
+
+<div align="center">
+
+  <a href="https://github.com/arthuneas">
+    <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arthuneas&layout=compact&theme=radical&hide_border=true"/>
+  </a>
+
+  <br><br>
+
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" width="100%"/>
+
 </div>
