@@ -2,7 +2,7 @@
 
   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="600" height="300"/>
 
-  # arthur santos | arthuneas 
+  # Arthur Santos | arthuneas 
 
   <p>
    <em>Estudante de Ciência da Computação na UnB | Aprendiz Constante</em>
