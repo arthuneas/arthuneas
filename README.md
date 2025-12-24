@@ -2,7 +2,7 @@
 
   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="600" height="300"/>
 
-  # arthur santos|arthuneas 
+  # arthur santos | arthuneas 
 
   <p>
    <em>Estudante de Ciência da Computação na UnB | Aprendiz Constante</em>
@@ -25,8 +25,6 @@ Sou apaixonado por criar coisas e entender como a tecnologia molda o nosso mundo
 *  **Aprendendo:** Aprendendo sobre Orientação a Objetos em Java e mais.
 
 ---
-
- Ferramentas e Tecnologias
 
 <div align="center">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
