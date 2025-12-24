@@ -2,24 +2,22 @@
 
   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="600" height="300"/>
 
-  # Olá, eu sou o Arthur! 👋
+  # opa, eu sou o Arthur! 
 
   <p>
-   <em>Estudante de Tecnologia | Entusiasta de Código | Aprendiz Constante</em>
+   <em>Estudante de Ciência da Computação na UnB | Aprendiz Constante</em>
   </p>
 
-  <a href="https://www.linkedin.com/in/SEU-LINKEDIN">
+  <a href="https://www.linkedin.com/in/arthur-santos-96a246346">
     <img src="https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
-    <a href="mailto:SEU-EMAIL@gmail.com">
+    <a href="mailto:arthursalmeidacontato@gmail.com">
     <img src="https://img.shields.io/badge/-Email-c14438?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
   </a>
 
 </div>
 
 ---
-
-### 🚀 Sobre mim
 
 Sou apaixonado por criar coisas e entender como a tecnologia molda o nosso mundo. Atualmente, estou focado em aprimorar minhas habilidades em desenvolvimento de software e explorar novos desafios.
 
