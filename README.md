@@ -21,8 +21,8 @@
 
 Sou apaixonado por criar coisas e entender como a tecnologia molda o nosso mundo. Atualmente, estou focado em aprimorar minhas habilidades em desenvolvimento de software e explorar novos desafios.
 
-* - **Trabalhando em:** Minstério do Desenvolvimento Social como Analista de Suporte Jr e Observatório Sismológico em Iniciação Científica.
-* - **Aprendendo:** Aprendendo sobre Orientação a Objetos em Java e mais.
+*  **Trabalhando em:** Minstério do Desenvolvimento Social como Analista de Suporte Jr e Observatório Sismológico em Iniciação Científica.
+*  **Aprendendo:** Aprendendo sobre Orientação a Objetos em Java e mais.
 
 ---
 
@@ -45,17 +45,13 @@ Sou apaixonado por criar coisas e entender como a tecnologia molda o nosso mundo
  Estatísticas no GitHub
 
 <div align="center">
+  <h2>Olá! Bem-vindo ao meu perfil 👋</h2>
+  
   <a href="https://github.com/arthuneas">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=arthuneas&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=arthuneas&theme=radical" alt="Estatísticas do Arthur" />
   </a>
-  <br>
-  <a href="https://github.com/arthuneas">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arthuneas&layout=compact&theme=radical&langs_count=8"/>
-  </a>
-</div>
-
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
-</div>
-  <img src="[https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer)"/>
+  
+  <br><br>
+  
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=arthuneas&layout=compact&theme=radical" />
 </div>
