@@ -23,7 +23,6 @@ Sou apaixonado por criar coisas e entender como a tecnologia molda o nosso mundo
 
 * 🔭 **Trabalhando em:** Minstério do Desenvolvimento Social como Analista de Suporte Jr e Observatório Sismológico em Iniciação Científica.
 * 🌱 **Aprendendo:** Aprendendo sobre Orientação a Objetos em Java e mais.
-* 💙 **Aprecio:** Resolver problemas lógicos e tomar um bom café.
 
 ---
 
@@ -43,19 +42,18 @@ Sou apaixonado por criar coisas e entender como a tecnologia molda o nosso mundo
 
 ---
 
-### 📊 Estatísticas no GitHub
+ Estatísticas no GitHub
 
 <div align="center">
-  <a href="https://github.com/arthuneas">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=arthuneas&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
+  <a href="[https://github.com/arthuneas](https://github.com/arthuneas)">
+    <img height="180em" src="[https://github-readme-stats.vercel.app/api?username=arthuneas&show_icons=true&theme=radical&include_all_commits=true&count_private=true](https://github-readme-stats.vercel.app/api?username=arthuneas&show_icons=true&theme=radical&include_all_commits=true&count_private=true)"/>
   </a>
-  <br><br>
-  <a href="https://github.com/arthuneas">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arthuneas&layout=compact&theme=radical&langs_count=8"/>
+  <br>
+  <a href="[https://github.com/arthuneas](https://github.com/arthuneas)">
+    <img height="180em" src="[https://github-readme-stats.vercel.app/api/top-langs/?username=arthuneas&layout=compact&theme=radical&langs_count=8](https://github-readme-stats.vercel.app/api/top-langs/?username=arthuneas&layout=compact&theme=radical&langs_count=8)"/>
   </a>
 </div>
 
 <div align="center">
-  <br>
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
+  <img src="[https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer)"/>
 </div>
