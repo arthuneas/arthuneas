@@ -2,7 +2,7 @@
 
   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="600" height="300"/>
 
-  # Opa, eu sou o Arthur! 
+  # arthur santos|arthuneas 
 
   <p>
    <em>Estudante de Ciência da Computação na UnB | Aprendiz Constante</em>
@@ -45,20 +45,7 @@ Sou apaixonado por criar coisas e entender como a tecnologia molda o nosso mundo
  Estatísticas no GitHub
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0d1117&height=250&section=header&text=Arthur%20Santos&fontSize=80&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=arthuneas&descAlignY=65&descSize=25&descColor=0099ff"/>
-
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=36BCF7&center=true&vCenter=true&width=435&lines=Estudante+de+Computa%C3%A7%C3%A3o;Java+%7C+C+%7C+Assembly;Bem-vindo+ao+meu+perfil!" alt="Typing SVG" />
-  </a>
-
-  <br/><br/>
-
   <a href="https://github.com/arthuneas">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=arthuneas&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true"/>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arthuneas&layout=compact&theme=tokyonight&hide_border=true&langs_count=8"/>
+    <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arthuneas&layout=compact&theme=radical&hide_border=true"/>
   </a>
-  
-  <br/>
-  
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
 </div>
