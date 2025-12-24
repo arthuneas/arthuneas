@@ -45,7 +45,6 @@ Sou apaixonado por criar coisas e entender como a tecnologia molda o nosso mundo
  Estatísticas no GitHub
 
 <div align="center">
-  <h2>Olá! Bem-vindo ao meu perfil 👋</h2>
   
   <a href="https://github.com/arthuneas">
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=arthuneas&theme=radical" alt="Estatísticas do Arthur" />
