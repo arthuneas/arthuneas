@@ -21,13 +21,13 @@
 
 Sou apaixonado por criar coisas e entender como a tecnologia molda o nosso mundo. Atualmente, estou focado em aprimorar minhas habilidades em desenvolvimento de software e explorar novos desafios.
 
-* 🔭 **Trabalhando em:** Projetos pessoais para solidificar conhecimentos.
-* 🌱 **Aprendendo:** [Tecnologia que você está estudando agora].
-* 💙 **Adoro:** Resolver problemas lógicos e tomar um bom café.
+* 🔭 **Trabalhando em:** Minstério do Desenvolvimento Social como Analista de Suporte Jr e Observatório Sismológico em Iniciação Científica.
+* 🌱 **Aprendendo:** Aprendendo sobre Orientação a Objetos em Java e mais.
+* 💙 **Aprecio:** Resolver problemas lógicos e tomar um bom café.
 
 ---
 
-### 🛠️ Minhas Ferramentas e Tecnologias
+ Ferramentas e Tecnologias
 
 <div align="center">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
