@@ -25,7 +25,11 @@ Sou apaixonado por criar coisas e entender como a tecnologia molda o nosso mundo
 *   Aprendendo sobre Orientação a Objetos em Java e mais.
 *   Codando em Java, Python, C, HTML/CSS e mais!
 
+---
 
+<div align="center">
+  <img src="https://metrics.lecoq.io/arthuneas?base=0&languages=1&languages_details=lines,percentage&theme=dracula&config.timezone=America%2FSao_Paulo" />
+</div>
 
 ---
 
