@@ -5,7 +5,7 @@
   # Arthur Santos | arthuneas 
 
   <p>
-   <em>Estudante de Ciência da Computação na UnB | Aprendiz Constante</em>
+   <em>Estudante de Ciência da Computação na UnB |Futuro Cientista</em>
   </p>
 
   <a href="https://www.linkedin.com/in/arthur-santos-96a246346">
