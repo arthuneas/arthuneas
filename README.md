@@ -19,7 +19,7 @@
 
 ---
 
-Sou apaixonado por criar coisas e entender como a tecnologia molda o nosso mundo. Atualmente, estou focado em aprimorar minhas habilidades em desenvolvimento de software e explorar novos desafios.
+Sou apaixonado por criar coisas e entender como a tecnologia molda o nosso mundo. Atualmente, estou focado em aprimorar minhas habilidades em desenvolvimento de software, programação back-end e explorar novos desafios.
 
 *   Trabalhando no Ministério do Desenvolvimento Social como Analista de Suporte Jr e no Observatório Sismológico/UnB em Iniciação Científica.
 *   Aprendendo sobre Orientação a Objetos em Java e mais.
