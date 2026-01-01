@@ -19,8 +19,8 @@
 
 ---
 
-Sou um academico entusiasta por saber mais da computação e entender como a tecnologia molda o globo. Atualmente, estou focado em aprimorar minhas habilidades em desenvolvimento de software, programação back-end e explorar novos desafios. <br>
-Além disso, em minhas atividades laborais e projetuais, opero em Engenharia de Requisitos, Testes de Software, Desenvolvimento e Análise de Algoritmos, Redes Neurais e Deep Learning, Consulta e Analise em Bancos de Dados, Desenvolvimento de Relatórios Técnicos e, por fim, Versionamento e Gestão de Código.
+Sou um academico entusiasta de computação e entender como a tecnologia molda o globo. Atualmente, estou focado em aprimorar minhas habilidades em desenvolvimento de software, programação back-end e explorar novos desafios. <br>
+Além disso, em minhas atividades laborais e projetuais, opero em engenharia de requisitos, testes de software, desenvolvimento e análise de algoritmos, redes neurais e deep learning, consulta e analise em bancos de dados, desenvolvimento de relatórios técnicos e, por fim, versionamento e gestão de código.
 
 *   Trabalhando no Ministério do Desenvolvimento Social como Analista de Suporte Jr e no Observatório Sismológico/UnB em Iniciação Científica.
 *   Aprendendo sobre Orientação a Objetos em Java e mais.
