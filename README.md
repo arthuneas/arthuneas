@@ -29,7 +29,8 @@ Além disso, em minhas atividades laborais e projetuais, opero em engenharia de 
 ---
 
 <div align="center">
-  <img src="https://metrics.lecoq.io/arthuneas?base=0&languages=1&languages_details=lines,percentage&theme=dracula&config.timezone=America%2FSao_Paulo" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=arthuneas&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arthuneas&layout=compact&theme=dracula"/>
 </div>
 
 ---
