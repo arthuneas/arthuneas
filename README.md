@@ -19,9 +19,9 @@
 
 ---
 
-Sou um academico entusiasta por saber mais da computação e entender como a tecnologia molda o globo. Atualmente, estou focado em aprimorar minhas habilidades em desenvolvimento de software, programação back-end e explorar novos desafios.
+Sou um academico entusiasta por saber mais da computação e entender como a tecnologia molda o globo. Atualmente, estou focado em aprimorar minhas habilidades em desenvolvimento de software, programação back-end, análise de dados e iniciar minha carreira na pesquisa cientifica.
 <br><br>
-Além disso, em minhas atividades laborais e projetuais, opero em Engenharia de Requisitos, Testes de Software, Desenvolvimento e Análise de Algoritmos, Redes Neurais e Deep Learning, Consulta e Analise em Bancos de Dados, Desenvolvimento de Relatórios Técnicos e, por fim, Versionamento e Gestão de Código.
+Além disso, em minhas atividades laborais e projetuais, opero em Engenharia de Requisitos, Testes e Homologação de Software, Desenvolvimento e Análise de Algoritmos, Redes Neurais e Deep Learning, Consulta e Analise em Bancos de Dados, Desenvolvimento de Relatórios Técnicos e, por fim, Versionamento e Gestão de Código.
 
 <br>
 
@@ -42,13 +42,14 @@ Além disso, em minhas atividades laborais e projetuais, opero em Engenharia de 
 <div align="center">
 
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white" />
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
   <br/>
   <img src="https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white" />
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" />
+  <img src="https://img.shields.io/badge/SQL-CC2927?style=for-the-badge&logo=sqlite&logoColor=white" />
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
 
 </div>
