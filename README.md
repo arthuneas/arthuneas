@@ -5,7 +5,7 @@
   # Arthur Santos | arthuneas 
 
   <p>
-    <em>Estudante de Ciência da Computação na UnB | Aprendiz Constante</em>
+    <em>Estudante de Ciência da Computação na UnB | Pesquisador em Formação</em>
   </p>
 
   <a href="https://www.linkedin.com/in/arthur-santos-96a246346">
@@ -19,14 +19,15 @@
 
 ---
 
-Sou um academico entusiasta por saber mais da computação e entender como a tecnologia molda o globo. Atualmente, estou focado em aprimorar minhas habilidades em desenvolvimento de software, programação back-end, análise de dados e iniciar minha carreira na pesquisa cientifica.
+Sou um acadêmico entusiasta por saber mais da computação e entender como a tecnologia molda o globo. Atualmente, estou focado em aprimorar minhas habilidades em desenvolvimento de software, programação back-end, análise de dados e iniciar minha carreira na pesquisa cientifica.
 <br><br>
 Além disso, em minhas atividades laborais e projetuais, opero em Engenharia de Requisitos, Testes e Homologação de Software, Desenvolvimento e Análise de Algoritmos, Redes Neurais e Deep Learning, Consulta e Analise em Bancos de Dados, Desenvolvimento de Relatórios Técnicos e, por fim, Versionamento e Gestão de Código.
 
 <br>
 
 - Trabalhando no **Ministério do Desenvolvimento Social** como Analista de Suporte Jr e no **Observatório Sismológico/UnB** com Iniciação Científica em Processamento de Sinais e Redes Neurais.
-- Aprendendo sobre Orientação a Objetos em Java, Banco de Dados e mais.
+- Atuando em projeto de pesquisa em Desenvolvimento de Software e Interação Humano-Computador <br> e Projeto de Extensão em Lecionamento de Programação Básicas nas Escolas Públicas do DF.
+- Aprendendo sobre Desenvolvimento Web em Java, Análise de Dados, Machine Learning e mais.
 - Codando em Java, C e Python.
 
 ---
