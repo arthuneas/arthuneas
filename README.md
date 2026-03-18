@@ -26,7 +26,7 @@ Além disso, em minhas atividades laborais e projetuais, opero em Engenharia de 
 <br>
 
 - Trabalhando no **Ministério do Desenvolvimento Social** como Analista de Suporte Jr e no **Observatório Sismológico/UnB** com Iniciação Científica em Processamento de Sinais e Redes Neurais.
-- Atuando em projeto de pesquisa em Desenvolvimento de Software e Interação Humano-Computador e Projeto de Extensão em Lecionamento de Programação Básicas nas Escolas Públicas do DF.
+- Atuando em projeto de pesquisa em Desenvolvimento de Software e Interação Humano-Computador e Projeto de Extensão em Lecionamento de Programação Básica nas Escolas Públicas do DF.
 - Aprendendo sobre Desenvolvimento Web em Java, Análise de Dados, Machine Learning e mais.
 - Codando em Java, C e Python.
 
