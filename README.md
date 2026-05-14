@@ -1,12 +1,10 @@
 <div align="center">
-
   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="600" height="300"/>
 
-  # Arthur Santos | arthuneas 
+  ## Arthur Santos
+  `arthuneas`
 
-  <p>
-    <em>Estudante de Ciência da Computação na UnB | Pesquisador em Formação</em>
-  </p>
+  Estudante de Ciência da Computação na UnB — Pesquisador em Formação
 
   <a href="https://www.linkedin.com/in/arthur-santos-96a246346">
     <img src="https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
@@ -14,45 +12,46 @@
   <a href="mailto:arthursalmeidacontato@gmail.com">
     <img src="https://img.shields.io/badge/-Email-c14438?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
   </a>
-
 </div>
 
 ---
 
-Sou um acadêmico entusiasta por saber mais da computação e entender como a tecnologia molda o globo. Atualmente, estou focado em aprimorar minhas habilidades em desenvolvimento de software, programação back-end, análise de dados e iniciar minha carreira na pesquisa cientifica.
-<br><br>
-Além disso, em minhas atividades laborais e projetuais, opero em Engenharia de Requisitos, Testes e Homologação de Software, Desenvolvimento e Análise de Algoritmos, Redes Neurais e Deep Learning, Consulta e Analise em Bancos de Dados, Desenvolvimento de Relatórios Técnicos e, por fim, Versionamento e Gestão de Código.
+Sou estudante de Ciência da Computação na Universidade de Brasília, com interesse em desenvolvimento de software, inteligência artificial e análise de dados. Busco unir prática profissional e pesquisa científica para entender como a tecnologia transforma a sociedade.
 
-<br>
-
-- Trabalhando no **Ministério do Desenvolvimento Social** como Analista de Suporte Jr e no **Observatório Sismológico/UnB** com Iniciação Científica em Processamento de Sinais e Redes Neurais.
-- Atuando em projeto de pesquisa em Desenvolvimento de Software e Interação Humano-Computador e Projeto de Extensão em Lecionamento de Programação Básica nas Escolas Públicas do DF.
-- Aprendendo sobre Desenvolvimento Web em Java, Análise de Dados, Machine Learning e mais.
-- Codando em Java, C e Python.
+Minhas atuações incluem engenharia de requisitos, homologação de software, análise de algoritmos, redes neurais e deep learning, consulta e análise em bancos de dados, elaboração de relatórios técnicos e versionamento de código.
 
 ---
 
-<div align="center">
-  
-  <img src="https://raw.githubusercontent.com/arthuneas/arthuneas/main/profile-summary-card-output/dracula/2-most-commit-language.svg" width="400" alt="Gráfico de Linguagens" />
-  
-</div>
+### Pesquisa e Extensão
+
+- **Desenvolvimento de Software para Escolas Públicas do DF** — pesquisa voltada à criação de produtos que atendam demandas educacionais reais.
+- **Ensino de Programação Básica** — projeto de extensão para introduzir lógica computacional no xombate da desinformação em escolas públicas do DF.
+- **IA Embarcada e IHC aplicados ao ensino** — investigação sobre interação humano-computador no contexto do ensino de inteligência artificial e a integração da IA com a robótica.
+- **Redes Neurais para Processamento de Sinais** — classificação de sinais sísmicos com técnicas de aprendizado profundo.
+- **IEEE CSS** — trainee no capítulo estudantil de controle.
+- **Ramo Estudantil IEEE UnB** — trainee na gestão do ramo estudantil.
 
 ---
 
-<div align="center">
+### Linguagens e Ferramentas
 
+<div align="center">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" />
+  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/SQL-CC2927?style=for-the-badge&logo=sqlite&logoColor=white" />
+  <br/>
   <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white" />
   <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
-  <br/>
   <img src="https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" />
-  <img src="https://img.shields.io/badge/SQL-CC2927?style=for-the-badge&logo=sqlite&logoColor=white" />
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
+</div>
 
+---
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/arthuneas/arthuneas/main/profile-summary-card-output/dracula/2-most-commit-language.svg" width="400" alt="Linguagens mais utilizadas" />
 </div>
 
 <div align="center">
